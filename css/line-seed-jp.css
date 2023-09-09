@@ -2,22 +2,26 @@
     font-family: 'LINE Seed JP';
     src: url('../fonts/WOFF2/LINESeedJP_OTF_Rg.woff2') format('woff2'), url('../fonts/WOFF/LINESeedJP_OTF_Rg.woff') format('woff'), url('../fonts/EOT/LINESeedJP_TTF_Rg.eot') format('embedded-opentype');
     font-weight: 400;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'LINE Seed JP';
     src: url('../fonts/WOFF2/LINESeedJP_OTF_Th.woff2') format('woff2'), url('../fonts/WOFF/LINESeedJP_OTF_Th.woff') format('woff'), url('../fonts/EOT/LINESeedJP_TTF_Th.eot') format('embedded-opentype');
     font-weight: 100;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'LINE Seed JP';
     src: url('../fonts/WOFF2/LINESeedJP_OTF_Bd.woff2') format('woff2'), url('../fonts/WOFF/LINESeedJP_OTF_Bd.woff') format('woff'), url('../fonts/EOT/LINESeedJP_TTF_Bd.eot') format('embedded-opentype');
     font-weight: 700;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'LINE Seed JP';
     src: url('../fonts/WOFF2/LINESeedJP_OTF_Eb.woff2') format('woff2'), url('../fonts/WOFF/LINESeedJP_OTF_Eb.woff') format('woff'), url('../fonts/EOT/LINESeedJP_TTF_Eb.eot') format('embedded-opentype');
     font-weight: 900;
+    font-display: swap;
 }
